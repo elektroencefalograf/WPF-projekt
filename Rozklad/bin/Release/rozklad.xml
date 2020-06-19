@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Rozklad>
+  <pociag>
+   <StajcaPoczatkowa>Brzeg</StajcaPoczatkowa>
+   <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+   <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+   <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+   <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+   <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag>
+  <pociag>
+   <StajcaPoczatkowa>Wrocław Główny</StajcaPoczatkowa>
+   <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+   <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+   <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+   <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+   <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag>
+  <pociag>
+   <StajcaPoczatkowa>Brzeg</StajcaPoczatkowa>
+   <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+   <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+   <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+   <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+   <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag> 
+  <pociag>
+   <StajcaPoczatkowa>Brzeg</StajcaPoczatkowa>
+   <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+   <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+   <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+   <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+   <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag>
+  <pociag>
+    <StajcaPoczatkowa>Brzeg</StajcaPoczatkowa>
+    <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+    <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+    <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+    <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+    <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag>
+  <pociag>
+    <StajcaPoczatkowa>Brzeg</StajcaPoczatkowa>
+    <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+    <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+    <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+    <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+    <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag>
+  <pociag>
+    <StajcaPoczatkowa>Brzeg</StajcaPoczatkowa>
+    <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+    <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+    <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+    <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+    <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag>
+  <pociag>
+    <StajcaPoczatkowa>Brzeg</StajcaPoczatkowa>
+    <GodzinaOdjazdu>6:15</GodzinaOdjazdu>
+    <StacjaKoncowa>Opole Główne</StacjaKoncowa>
+    <GodzinaPrzyjazdu>6:40</GodzinaPrzyjazdu>
+    <StacjePosrednie>Łosiów 6:45 Lewin Brzeski 6:50 Przecza 6:55 Dąbrowa Niemodlińska 7:00 Chrościna Opolska 7:05 Opole Zachodnie 7:10 </StacjePosrednie>
+    <DniJazdy>Poniedziałek Wtorek Środa Czwartek Piątek</DniJazdy>
+  </pociag>
+</Rozklad> 
